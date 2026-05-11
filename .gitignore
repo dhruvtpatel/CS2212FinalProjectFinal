@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+*.egg-info/
+
+# Claude Code internals
+.claude/
+
+# OS metadata
+.DS_Store
+
+# Old output directories (replaced by output/)
+figures/
+results/
